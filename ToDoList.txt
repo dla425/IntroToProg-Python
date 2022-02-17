@@ -1,0 +1,2 @@
+homework,high
+wash dishes,low
